@@ -1,0 +1,2 @@
+2025-02-15 13:30:13,169 - ERROR - Erro ao enviar ordem limitada de COMPRA: APIError(code=-2010): Account has insufficient balance for requested action.
+2025-02-16 07:51:01,353 - ERROR - Erro ao enviar ordem limitada de COMPRA: APIError(code=-2010): Account has insufficient balance for requested action.
